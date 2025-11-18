@@ -6,7 +6,7 @@ Que peut-on faire ensemble ?
 RestoResa recherche des contributeurs pour :
 - Corriger des bugs
 - Ajouter de nouvelles fonctionnalités
-- Améliorer la documentation
+- L'Améliorer la documentation
 - Travailler sur l’interface ou l’accessibilité
 - Optimiser les performances
 

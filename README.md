@@ -1,6 +1,6 @@
 🍽️ RestoResa
 RestoResa est une application web (fictive) de réservation de restaurants. Elle permet aux utilisateurs de découvrir, réserver et évaluer des établissements en quelques clics. 
-Le projet permet d’expérimenter les workflows de contribution, les pull requests, la gestion d’issues et le versionnement collaboratif, comme dans un environnement professionnel réel.
+
 
 
 Pour bien démarrer
@@ -56,7 +56,7 @@ Merci de lire les fichiers suivants avant toute contribution :
 
 
 Auteurs
-* Berenice-Oravendis – Mainteneur principal
+* Noel-polo – Mainteneur principal
 * Contributions bienvenues via pull requests !
 
 
